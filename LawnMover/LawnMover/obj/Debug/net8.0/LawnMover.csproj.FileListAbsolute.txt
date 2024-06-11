@@ -1,0 +1,15 @@
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\w42\LawnMover\LawnMover\bin\Debug\net8.0\LawnMover.exe
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\w42\LawnMover\LawnMover\bin\Debug\net8.0\LawnMover.deps.json
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\w42\LawnMover\LawnMover\bin\Debug\net8.0\LawnMover.runtimeconfig.json
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\w42\LawnMover\LawnMover\bin\Debug\net8.0\LawnMover.dll
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\w42\LawnMover\LawnMover\bin\Debug\net8.0\LawnMover.pdb
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\w42\LawnMover\LawnMover\obj\Debug\net8.0\LawnMover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\w42\LawnMover\LawnMover\obj\Debug\net8.0\LawnMover.AssemblyInfoInputs.cache
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\w42\LawnMover\LawnMover\obj\Debug\net8.0\LawnMover.AssemblyInfo.cs
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\w42\LawnMover\LawnMover\obj\Debug\net8.0\LawnMover.csproj.CoreCompileInputs.cache
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\w42\LawnMover\LawnMover\obj\Debug\net8.0\LawnMover.sourcelink.json
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\w42\LawnMover\LawnMover\obj\Debug\net8.0\LawnMover.dll
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\w42\LawnMover\LawnMover\obj\Debug\net8.0\refint\LawnMover.dll
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\w42\LawnMover\LawnMover\obj\Debug\net8.0\LawnMover.pdb
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\w42\LawnMover\LawnMover\obj\Debug\net8.0\LawnMover.genruntimeconfig.cache
+C:\Users\fpg12\OneDrive\Skrivbord\DotNet\w42\LawnMover\LawnMover\obj\Debug\net8.0\ref\LawnMover.dll

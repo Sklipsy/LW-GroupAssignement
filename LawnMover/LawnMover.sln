@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LawnMover", "LawnMover\LawnMover.csproj", "{B3F8BF89-30D6-408A-91B2-65CE61E116AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3F8BF89-30D6-408A-91B2-65CE61E116AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3F8BF89-30D6-408A-91B2-65CE61E116AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3F8BF89-30D6-408A-91B2-65CE61E116AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3F8BF89-30D6-408A-91B2-65CE61E116AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20263269-C678-4B03-A29A-5483D360A2E9}
+	EndGlobalSection
+EndGlobal
